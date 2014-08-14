@@ -5,6 +5,8 @@ alias l='ls -F'
 alias cls='clear ; pwd ; echo ; l ;'
 alias cla='clear ; pwd ; echo ; la ;'
 alias cll='clear ; pwd ; echo ; ll ;'
+alias ..='cd ..'
+alias ls='ls -a'
 
 # OME
 alias apconf='cd /as/conf/apache/local/webprod/'
